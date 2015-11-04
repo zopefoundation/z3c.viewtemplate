@@ -5,7 +5,7 @@ CHANGES
 0.4.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Standardize namespace __init__
 
 
 0.4.1 (2010-12-12)
